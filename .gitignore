@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+HouseTS.csv
+raw/holdout.csv
+raw/train.csv
+raw/validation.csv
