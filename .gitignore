@@ -224,3 +224,7 @@ raw/train.csv
 raw/validation.csv
 processed/cleaning_eval.csv
 processed/cleaning_train.csv
+processed/cleaning_holdout.csv
+processed/feature_engineered_eval.csv
+processed/feature_engineered_train.csv
+processed/feature_engineered_holdout.csv
